@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Jocantu Dev</title>
-    <link>https://jocantu.github.io/jocantudev/projects/</link>
+    <link>https://www.jocantu.dev/projects/</link>
     <description>Recent content in Projects on Jocantu Dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jocantu.github.io/jocantudev/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.jocantu.dev/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aquifervulnerability</title>
-      <link>https://jocantu.github.io/jocantudev/projects/aquifervulnerability/</link>
+      <link>https://www.jocantu.dev/projects/aquifervulnerability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jocantu.github.io/jocantudev/projects/aquifervulnerability/</guid>
+      <guid>https://www.jocantu.dev/projects/aquifervulnerability/</guid>
       <description>Sumarry of the Aquifervulnerability project</description>
     </item>
     
     <item>
       <title>Historicmaps</title>
-      <link>https://jocantu.github.io/jocantudev/projects/historicmaps/</link>
+      <link>https://www.jocantu.dev/projects/historicmaps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jocantu.github.io/jocantudev/projects/historicmaps/</guid>
+      <guid>https://www.jocantu.dev/projects/historicmaps/</guid>
       <description>Sumarry of the Historicmaps project</description>
     </item>
     
     <item>
       <title>Historicphotos</title>
-      <link>https://jocantu.github.io/jocantudev/projects/historicphotos/</link>
+      <link>https://www.jocantu.dev/projects/historicphotos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jocantu.github.io/jocantudev/projects/historicphotos/</guid>
+      <guid>https://www.jocantu.dev/projects/historicphotos/</guid>
       <description>Sumarry of the Historicphotos project</description>
     </item>
     
