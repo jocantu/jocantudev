@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jocantu Dev</title>
-    <link>https://jocantu.dev/categories/</link>
+    <link>https://github.com/jocantu/jocantudev/categories/</link>
     <description>Recent content in Categories on Jocantu Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Mar 2021 18:49:23 -0600</lastBuildDate><atom:link href="https://jocantu.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Mar 2021 18:49:23 -0600</lastBuildDate><atom:link href="https://github.com/jocantu/jocantudev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal</title>
-      <link>https://jocantu.dev/categories/personal/</link>
+      <link>https://github.com/jocantu/jocantudev/categories/personal/</link>
       <pubDate>Tue, 02 Mar 2021 18:49:23 -0600</pubDate>
       
-      <guid>https://jocantu.dev/categories/personal/</guid>
+      <guid>https://github.com/jocantu/jocantudev/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thoughts</title>
-      <link>https://jocantu.dev/categories/thoughts/</link>
+      <link>https://github.com/jocantu/jocantudev/categories/thoughts/</link>
       <pubDate>Tue, 02 Mar 2021 18:49:23 -0600</pubDate>
       
-      <guid>https://jocantu.dev/categories/thoughts/</guid>
+      <guid>https://github.com/jocantu/jocantudev/categories/thoughts/</guid>
       <description></description>
     </item>
     
