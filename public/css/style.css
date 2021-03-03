@@ -1,0 +1,43 @@
+.container {
+  margin: 0 auto;
+  width: 80%;
+}
+
+nav, footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+}
+
+nav > a {
+  flex: 1;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+
+a.tag {
+  background-color: #ddd;
+  color: black;
+  display: inline-block;
+  padding: 0.1em;
+  font-size: 0.9em;
+  text-decoration: none;
+}
+
+@media only screen and (min-width: 768px) {
+  nav {flex-direction: row;}
+
+  .project-container { display: flex; }
+
+  .project-container .project-list { width: 20%; }
+
+  .project-container .project { flex: 1; }
+
+
+}
