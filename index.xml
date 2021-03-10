@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jocantu Dev</title>
-    <link>https://jocantu.github.io/jocantudev/</link>
+    <link>https://jocantu.dev/</link>
     <description>Recent content on Jocantu Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Mar 2021 21:50:35 -0600</lastBuildDate><atom:link href="https://jocantu.github.io/jocantudev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Mar 2021 21:50:35 -0600</lastBuildDate><atom:link href="https://jocantu.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gender Inequality In Street Names In Torreón, Coah. México</title>
-      <link>https://jocantu.github.io/jocantudev/posts/first/</link>
+      <link>https://jocantu.dev/posts/first/</link>
       <pubDate>Tue, 09 Mar 2021 21:50:35 -0600</pubDate>
       
-      <guid>https://jocantu.github.io/jocantudev/posts/first/</guid>
+      <guid>https://jocantu.dev/posts/first/</guid>
       <description>How many streets are named after women figures? Some days ago I heard at a local radio station a note about the gender inequality in streets names at my city, and this facts is repeated at different degrees all around the world but it is always interesting to analyze the local situation.
 I know the tools so I decided to create a map to understand in a visual way where are these streets located.</description>
     </item>
     
     <item>
       <title>Foto Historia Torreón</title>
-      <link>https://jocantu.github.io/jocantudev/portfolio/fotohistoria/</link>
+      <link>https://jocantu.dev/portfolio/fotohistoria/</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jocantu.github.io/jocantudev/portfolio/fotohistoria/</guid>
+      <guid>https://jocantu.dev/portfolio/fotohistoria/</guid>
       <description>Este proyecto busca ofrecer un espacio interactivo para conocer la historia de la ciudad de Torreón, Coahuila, la cual a pesar de ser una ciudad joven con poco más de un centenar de años cuenta con un acervo importante de edificios históricos y durante la época de la revolución fue lugar de importantes acontecimientos y durante un tiempo fue una de la ciudades mas importantes del país debido a su gran desarrollo económico.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://jocantu.github.io/jocantudev/about/</link>
+      <link>https://jocantu.dev/about/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jocantu.github.io/jocantudev/about/</guid>
+      <guid>https://jocantu.dev/about/</guid>
       <description>I am a Software Engineer based in Tijuana, BC. I am proficient in both Frontend and Backend development. My extensive knowledge in HTML, CSS and JavaScript combined with my experience with Geographical Information Systems Technologies allows me to create outstanding solutions for your needs. Many of the solutions I provide covers the full path of any GIS project, from concept idea, through the data acquisition and preprocessing, as well as the web app development for the final user to use.</description>
     </item>
     
