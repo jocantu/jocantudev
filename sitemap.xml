@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jocantu.dev/posts/first/</loc>
+    <loc>https://jocantu.github.io/jocantudev/posts/first/</loc>
     <lastmod>2021-03-09T21:50:35-06:00</lastmod>
   </url><url>
-    <loc>https://jocantu.dev/</loc>
+    <loc>https://jocantu.github.io/jocantudev/</loc>
     <lastmod>2021-03-09T21:50:35-06:00</lastmod>
   </url><url>
-    <loc>https://jocantu.dev/posts/</loc>
+    <loc>https://jocantu.github.io/jocantudev/posts/</loc>
     <lastmod>2021-03-09T21:50:35-06:00</lastmod>
   </url><url>
-    <loc>https://jocantu.dev/categories/</loc>
+    <loc>https://jocantu.github.io/jocantudev/categories/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jocantu.dev/portfolio/fotohistoria/</loc>
+    <loc>https://jocantu.github.io/jocantudev/portfolio/fotohistoria/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jocantu.dev/tags/javascript/</loc>
+    <loc>https://jocantu.github.io/jocantudev/tags/javascript/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jocantu.dev/tags/leafletjs/</loc>
+    <loc>https://jocantu.github.io/jocantudev/tags/leafletjs/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jocantu.dev/categories/portolio/</loc>
+    <loc>https://jocantu.github.io/jocantudev/categories/portolio/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jocantu.dev/portfolio/</loc>
+    <loc>https://jocantu.github.io/jocantudev/portfolio/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jocantu.dev/tags/</loc>
+    <loc>https://jocantu.github.io/jocantudev/tags/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jocantu.dev/tags/webmaps/</loc>
+    <loc>https://jocantu.github.io/jocantudev/tags/webmaps/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jocantu.dev/about/</loc>
+    <loc>https://jocantu.github.io/jocantudev/about/</loc>
     <lastmod>2021-01-10T00:00:00+00:00</lastmod>
   </url>
 </urlset>

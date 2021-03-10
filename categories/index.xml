@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jocantu Dev</title>
-    <link>https://jocantu.dev/categories/</link>
+    <link>https://jocantu.github.io/jocantudev/categories/</link>
     <description>Recent content in Categories on Jocantu Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jocantu.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jocantu.github.io/jocantudev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>portolio</title>
-      <link>https://jocantu.dev/categories/portolio/</link>
+      <link>https://jocantu.github.io/jocantudev/categories/portolio/</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jocantu.dev/categories/portolio/</guid>
+      <guid>https://jocantu.github.io/jocantudev/categories/portolio/</guid>
       <description></description>
     </item>
     
