@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/first/</loc>
+    <loc>http://www.jocantu.dev/posts/first/</loc>
     <lastmod>2021-03-09T21:50:35-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://www.jocantu.dev/</loc>
     <lastmod>2021-03-09T21:50:35-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://www.jocantu.dev/posts/</loc>
     <lastmod>2021-03-09T21:50:35-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://www.jocantu.dev/categories/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/portfolio/fotohistoria/</loc>
+    <loc>http://www.jocantu.dev/portfolio/fotohistoria/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/javascript/</loc>
+    <loc>http://www.jocantu.dev/tags/javascript/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/leafletjs/</loc>
+    <loc>http://www.jocantu.dev/tags/leafletjs/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/portolio/</loc>
+    <loc>http://www.jocantu.dev/categories/portolio/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/portfolio/</loc>
+    <loc>http://www.jocantu.dev/portfolio/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://www.jocantu.dev/tags/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/webmaps/</loc>
+    <loc>http://www.jocantu.dev/tags/webmaps/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://www.jocantu.dev/about/</loc>
     <lastmod>2021-01-10T00:00:00+00:00</lastmod>
   </url>
 </urlset>

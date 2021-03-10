@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jocantu Dev</title>
-    <link>http://example.org/tags/</link>
+    <link>http://www.jocantu.dev/tags/</link>
     <description>Recent content in Tags on Jocantu Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.jocantu.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>javascript</title>
-      <link>http://example.org/tags/javascript/</link>
+      <link>http://www.jocantu.dev/tags/javascript/</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/javascript/</guid>
+      <guid>http://www.jocantu.dev/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>leafletjs</title>
-      <link>http://example.org/tags/leafletjs/</link>
+      <link>http://www.jocantu.dev/tags/leafletjs/</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/leafletjs/</guid>
+      <guid>http://www.jocantu.dev/tags/leafletjs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>webmaps</title>
-      <link>http://example.org/tags/webmaps/</link>
+      <link>http://www.jocantu.dev/tags/webmaps/</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/webmaps/</guid>
+      <guid>http://www.jocantu.dev/tags/webmaps/</guid>
       <description></description>
     </item>
     
