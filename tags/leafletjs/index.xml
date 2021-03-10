@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>leafletjs on Jocantu Dev</title>
-    <link>https://jocantu.github.io/jocantudev/tags/leafletjs/</link>
+    <link>https://jocantu.dev/tags/leafletjs/</link>
     <description>Recent content in leafletjs on Jocantu Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jocantu.github.io/jocantudev/tags/leafletjs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jocantu.dev/tags/leafletjs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Foto Historia Torreón</title>
-      <link>https://jocantu.github.io/jocantudev/portfolio/fotohistoria/</link>
+      <link>https://jocantu.dev/portfolio/fotohistoria/</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jocantu.github.io/jocantudev/portfolio/fotohistoria/</guid>
+      <guid>https://jocantu.dev/portfolio/fotohistoria/</guid>
       <description>Este proyecto busca ofrecer un espacio interactivo para conocer la historia de la ciudad de Torreón, Coahuila, la cual a pesar de ser una ciudad joven con poco más de un centenar de años cuenta con un acervo importante de edificios históricos y durante la época de la revolución fue lugar de importantes acontecimientos y durante un tiempo fue una de la ciudades mas importantes del país debido a su gran desarrollo económico.</description>
     </item>
     
